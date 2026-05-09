@@ -1,0 +1,3 @@
+C:/KMU/Game-Physics/lab/build/x64-release/CMakeFiles/lab.dir
+C:/KMU/Game-Physics/lab/build/x64-release/CMakeFiles/edit_cache.dir
+C:/KMU/Game-Physics/lab/build/x64-release/CMakeFiles/rebuild_cache.dir

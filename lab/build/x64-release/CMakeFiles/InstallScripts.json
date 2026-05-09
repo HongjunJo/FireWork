@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/KMU/Game-Physics/lab/build/x64-release/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
