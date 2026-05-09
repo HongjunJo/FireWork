@@ -28,7 +28,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "fltk_images::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-fltk_images-Debug-a3981a9f57822bd19a51.json",
+					"jsonFile" : "target-fltk_images-Debug-c657839d56e5d1e6c110.json",
 					"name" : "fltk_images",
 					"projectIndex" : 0
 				},
@@ -111,7 +111,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "lab::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-lab-Debug-7156c7a2b2c5f41ae818.json",
+					"jsonFile" : "target-lab-Debug-f666304c68670b8f38ff.json",
 					"name" : "lab",
 					"projectIndex" : 0
 				}
@@ -121,8 +121,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/KMU/Game-Physics/lab/build/x64-debug",
-		"source" : "D:/KMU/Game-Physics/lab"
+		"build" : "D:/KMU/FireWork/lab/build/x64-debug",
+		"source" : "D:/KMU/FireWork/lab"
 	},
 	"version" : 
 	{

@@ -47,7 +47,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SD:\KMU\Game-Physics\lab -BD:\KMU\Game-Physics\lab\build\x64-debug
+  command = "C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SD:\KMU\FireWork\lab -BD:\KMU\FireWork\lab\build\x64-debug
   description = Re-running CMake...
   generator = 1
 

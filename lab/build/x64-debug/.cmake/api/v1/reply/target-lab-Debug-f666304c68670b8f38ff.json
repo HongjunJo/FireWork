@@ -152,16 +152,16 @@
 			[
 				{
 					"backtrace" : 13,
-					"path" : "D:/KMU/Game-Physics/lab/Cyclone"
+					"path" : "D:/KMU/FireWork/lab/Cyclone"
 				},
 				{
 					"backtrace" : 13,
-					"path" : "D:/KMU/Game-Physics/lab/firework"
+					"path" : "D:/KMU/FireWork/lab/firework"
 				},
 				{
 					"backtrace" : 3,
 					"isSystem" : true,
-					"path" : "D:/KMU/Game-Physics/lab/build/x64-debug/vcpkg_installed/x64-windows/include"
+					"path" : "D:/KMU/FireWork/lab/build/x64-debug/vcpkg_installed/x64-windows/include"
 				}
 			],
 			"language" : "CXX",

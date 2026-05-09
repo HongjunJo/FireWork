@@ -98,19 +98,19 @@
 		},
 		{
 			"backtrace" : 8,
-			"fragment" : "D:/KMU/Game-Physics/lab/build/x64-debug/vcpkg_installed/x64-windows/debug/lib/jpeg.lib"
+			"fragment" : "D:/KMU/FireWork/lab/build/x64-debug/vcpkg_installed/x64-windows/debug/lib/jpeg.lib"
 		},
 		{
 			"backtrace" : 8,
-			"fragment" : "D:/KMU/Game-Physics/lab/build/x64-debug/vcpkg_installed/x64-windows/debug/lib/zlibd.lib"
+			"fragment" : "D:/KMU/FireWork/lab/build/x64-debug/vcpkg_installed/x64-windows/debug/lib/zlibd.lib"
 		},
 		{
 			"backtrace" : 8,
-			"fragment" : "D:/KMU/Game-Physics/lab/build/x64-debug/vcpkg_installed/x64-windows/debug/lib/libpng16d.lib"
+			"fragment" : "D:/KMU/FireWork/lab/build/x64-debug/vcpkg_installed/x64-windows/debug/lib/libpng16d.lib"
 		},
 		{
 			"backtrace" : 8,
-			"fragment" : "D:/KMU/Game-Physics/lab/build/x64-debug/vcpkg_installed/x64-windows/debug/lib/zlibd.lib"
+			"fragment" : "D:/KMU/FireWork/lab/build/x64-debug/vcpkg_installed/x64-windows/debug/lib/zlibd.lib"
 		}
 	],
 	"local" : true,

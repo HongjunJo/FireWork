@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/KMU/Game-Physics/lab/build/x64-debug"
+			"value" : "d:/KMU/FireWork/lab/build/x64-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -123,11 +123,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
 			"type" : "STRING",
-			"value" : "cl.exe"
+			"value" : "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/cl.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_FLAGS",
@@ -235,11 +235,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
 			"type" : "STRING",
-			"value" : "cl.exe"
+			"value" : "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/cl.exe"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS",
@@ -483,7 +483,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/KMU/Game-Physics/lab/build/x64-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/KMU/FireWork/lab/build/x64-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/KMU/Game-Physics/lab"
+			"value" : "D:/KMU/FireWork/lab"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -555,7 +555,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/KMU/Game-Physics/lab/install/x64-debug"
+			"value" : "D:/KMU/FireWork/lab/install/x64-debug"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1111,10 +1111,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "The CMake toolchain file"
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "C:/vcpkg/scripts/buildsystems/vcpkg.cmake"
 		},
 		{
@@ -1143,7 +1143,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/KMU/Game-Physics/lab/build/x64-debug/vcpkg_installed/x64-windows/share/fltk"
+			"value" : "D:/KMU/FireWork/lab/build/x64-debug/vcpkg_installed/x64-windows/share/fltk"
 		},
 		{
 			"name" : "VCPKG_APPLOCAL_DEPS",
@@ -1179,7 +1179,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/KMU/Game-Physics/lab/build/x64-debug/vcpkg_installed"
+			"value" : "D:/KMU/FireWork/lab/build/x64-debug/vcpkg_installed"
 		},
 		{
 			"name" : "VCPKG_INSTALL_OPTIONS",
@@ -1203,7 +1203,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/KMU/Game-Physics/lab"
+			"value" : "D:/KMU/FireWork/lab"
 		},
 		{
 			"name" : "VCPKG_MANIFEST_INSTALL",
@@ -1423,7 +1423,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/KMU/Game-Physics/lab/build/x64-debug/vcpkg_installed"
+			"value" : "D:/KMU/FireWork/lab/build/x64-debug/vcpkg_installed"
 		},
 		{
 			"name" : "glm_DIR",
@@ -1435,7 +1435,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "D:/KMU/Game-Physics/lab/build/x64-debug/vcpkg_installed/x64-windows/share/glm"
+			"value" : "D:/KMU/FireWork/lab/build/x64-debug/vcpkg_installed/x64-windows/share/glm"
 		},
 		{
 			"name" : "lab_BINARY_DIR",
@@ -1447,7 +1447,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/KMU/Game-Physics/lab/build/x64-debug"
+			"value" : "D:/KMU/FireWork/lab/build/x64-debug"
 		},
 		{
 			"name" : "lab_IS_TOP_LEVEL",
@@ -1471,7 +1471,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/KMU/Game-Physics/lab"
+			"value" : "D:/KMU/FireWork/lab"
 		}
 	],
 	"kind" : "cache",
