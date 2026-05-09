@@ -22,6 +22,8 @@ mono_crash.*
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
+x64/
+x86/
 
 [Dd]ebug/x64/
 [Dd]ebugPublic/x64/
@@ -324,6 +326,9 @@ node_modules/
 # Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
 *.vbw
 
+# Visual Studio 6 auto-generated project file (contains which files were open etc.)
+*.vbp
+
 # Visual Studio 6 workspace and project file (working project files containing files to include in project)
 *.dsw
 *.dsp
@@ -427,3 +432,20 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# ==============================================================================
+# Editor / Workspace / DataSources (JetBrains/Custom)
+# ==============================================================================
+# 디폴트 무시된 파일
+/shelf/
+/workspace.xml
+
+# 쿼리 파일을 포함한 무시된 디폴트 폴더
+/queries/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# 에디터 기반 HTTP 클라이언트 요청
+/httpRequests/
